@@ -1,1 +1,2 @@
-This is the second File
+This is the second File.
+I am adding new lines to Second File.
